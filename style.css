@@ -6,3 +6,11 @@ h2 {
 .placesLi {
   color: green;
 }
+
+#iceImg {
+  float: right;
+}
+
+body {
+  background-color: rgb(128,128,128);
+}
